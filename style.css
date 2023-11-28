@@ -1,0 +1,70 @@
+
+
+
+body{
+    background-color: #F5F7F8
+}
+
+.maindiv{
+    margin: 15% ;
+    text-align: center;
+
+    
+}
+
+h1{
+    font-size: 60px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-family: 'Karla', sans-serif;
+    margin-bottom: 5px ;
+    color: #132043;
+}
+
+.showincrease{
+
+    color: green;
+    font-size: 100px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 500;
+ 
+}
+.ShowNumber{
+
+
+    font-size: 100px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 500;
+ 
+}
+
+ .allbutton{
+
+    padding: 5px ;
+   letter-spacing: 2px;
+   font-family: Arial, Helvetica, sans-serif;
+  padding: 5px 10px;
+  margin: 10px;
+  border-radius: 7px;
+  transition: background-color 0.4s ease;
+  background: transparent;
+  text-transform: uppercase;
+}
+
+.allbutton:hover{
+background-color: black ;
+color: white;
+}
+
+li{
+    list-style: none;
+
+}
+
+h2{
+    float: right;
+    font-family: 'Pacifico', cursive;
+}
+.Deepak{
+    color: orangered;
+}
