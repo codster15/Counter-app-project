@@ -1,7 +1,7 @@
 # Counter-app-project
 # About Me 👋
 
-Hi there! I'm Deepak, also known as Codster Dev on the web. 👨‍💻 I'm passionate about coding and creating web applications that bring ideas to life.
+Hi there! I'm Deepak, also known as Codster Dev on the web. 👨‍💻 I'm passionate about coding and creating web applications that bring ideas to life..
 
 ## My Counter App 🔄
 
